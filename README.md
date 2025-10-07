@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Virendra Kumar Dwivedi<br>👀 I’m interested in web devlopment<br>🌱 I’m currently learning MERN<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me - virendradwivedi916@gmail.com
+👋 Hi, I’m Virendra Kumar Dwivedi<br>👀 I’m interested in web devlopment<br>🌱 I’m currently learning MERN<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me - dwivedivirendrakumar23@gmail.com
 
 
 ## 🌐 Socials:
